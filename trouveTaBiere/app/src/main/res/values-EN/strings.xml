@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Find your beer</string>
+    <string name="msg">click on the button just below and click on the notification for see a list of beer</string>
+
+    <string name="hello_world">Downloaded your beers and find all your info!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_seconde">list of beer</string>
+    <string name="caase">Case</string>
+    <string name="info">Info?</string>
+    <string name="StartDL">Start Download</string>
+    <string name="NotifTitle"> where are beer?</string>
+    <string name="NotifDL">Download completed</string>
+</resources>

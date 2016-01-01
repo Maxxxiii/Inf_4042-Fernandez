@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trouve ta biere</string>
+    <string name="msg">clique sur le bouton juste en dessous et clique sur la notification pour voir la liste des bières</string>
+
+    <string name="hello_world">Telecharge tes bieres et trouve toutes tes info!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_seconde">Listes bieres</string>
+    <string name="caase">Case</string>
+    <string name="info">Info?</string>
+    <string name="StartDL">Demarer le telechargement</string>
+    <string name="NotifTitle"> Ou sont les bierre?</string>
+    <string name="NotifDL">Telechargement terminé</string>
+</resources>
